@@ -7,4 +7,8 @@ No man can kill me
 
 Serious 
 
+<<<<<<< HEAD
 New Game
+=======
+Creating 
+>>>>>>> branch
